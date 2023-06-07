@@ -95,7 +95,8 @@
  
 </ol>
 <br> 
-> <a href="[https://docs.google.com/spreadsheets/d/1v1AowF0zste1evkczrXOjH8ke4BcKNTF/edit?usp=sharing&ouid=107558701387849640195&rtpof=true&sd=true](https://drive.google.com/drive/u/2/my-drive">Ссылка на проект №2: Калькулятор юнит-эконимики онлайн-кинотеатра</a>
+> <a 
+href="https://docs.google.com/spreadsheets/d/1v1AowF0zste1evkczrXOjH8ke4BcKNTF/edit?usp=sharing&ouid=107558701387849640195&rtpof=true&sd=true](https://drive.google.com/drive/u/2/my-drive">Ссылка на проект №2: Калькулятор юнит-эконимики онлайн-кинотеатра</a>
 <br> 
 <p> <h3><strong>Проект 3: Когортный анализ онлайн-кинотеатра с помощью SQL</strong></h3></p>
 <p>Что нужно было сделать:<p>
