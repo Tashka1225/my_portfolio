@@ -118,9 +118,11 @@ href="https://docs.google.com/spreadsheets/d/1v1AowF0zste1evkczrXOjH8ke4BcKNTF/e
 </ol>
 
 <br> 
-<p>Проект 4: Построение витрины для модели машинного обучения в банке </p> 
-<p>Что нужно было сделать: задача №1.<p>
-  
+<p> <h3><strong>Проект 4: Построение витрины для модели машинного обучения в банке </strong></h3></p> 
+<ol>
+  <p><em><strong>Задача №1:</strong></em>
+  <p><em><strong>Задача №2:</strong></em>
+</ol>  
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
 > <a href="https://drive.google.com/drive/folders/1QOk5AAh6x7jK_yHgfKI2sUFYR7AWUi5u">Ссылка на проект</a>
@@ -134,11 +136,10 @@ href="https://docs.google.com/spreadsheets/d/1v1AowF0zste1evkczrXOjH8ke4BcKNTF/e
 <br> 
 
 
-<p>Проект 5: Моделирование изменения балансов студентов</p> 
-<p>Что нужно было сделать:<p>
+<p> <h3><strong>Проект 5: Моделирование изменения балансов студентов</strong></h3></p>
 <ol>
-  <li>Задача №1</li>
-  <li>Задача №2.</li>
+  <p><em><strong>Задача №1:</strong></em>
+  <p><em><strong>Задача №2:</strong></em>
 </ol>
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
