@@ -95,8 +95,7 @@
  
 </ol>
 <br> 
-> <a href="https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x">Ссылка на проект</a>
- (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
+> <a href="https://[[drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x](https://docs.google.com/spreadsheets/d/1v1AowF0zste1evkczrXOjH8ke4BcKNTF/edit?usp=drive_link&ouid=107558701387849640195&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1v1AowF0zste1evkczrXOjH8ke4BcKNTF/edit?usp=drive_link&ouid=107558701387849640195&rtpof=true&sd=true)">
 <br> 
 <p> <h3><strong>Проект 3: Когортный анализ онлайн-кинотеатра с помощью SQL</strong></h3></p>
 <p>Что нужно было сделать:<p>
