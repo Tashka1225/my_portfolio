@@ -115,12 +115,7 @@ href="https://docs.google.com/spreadsheets/d/1v1AowF0zste1evkczrXOjH8ke4BcKNTF/e
 > <a href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект</a>
 (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
 
-  <p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
-</ol>
-
+  
 <br> 
 <p> <h3><strong>Проект 4: Построение витрины для модели машинного обучения в банке </strong></h3></p> 
 <ol>
