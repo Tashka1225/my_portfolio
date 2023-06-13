@@ -159,7 +159,7 @@ MA_2side(5) — двустороннее скользящее среднее, п
   <p><em><strong>Итог №2:</strong></em> Распределение выплаченных денег клиентами с учетом скользящих средних.<p>
 
 
-> <a href="https://github.com/Tashka1225/my_portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_4_%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B8%D1%82%D1%80%D0%B8%D0%BD%D1%8B.xlsx">Ссылка на проект №4: Построение витрины с помощью запроса SQL</a>
+> <a href="https://github.com/Tashka1225/my_portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_4_%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B8%D1%82%D1%80%D0%B8%D0%BD%D1%8B.xlsx">Ссылка на проект №4: Построение витрины с помощью запроса SQL</a><p>
 > <a href="https://github.com/Tashka1225/my_portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_4_%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B8%D1%82%D1%80%D0%B8%D0%BD%D1%8B.xlsx">Ссылка на проект №4: Распределение с учетом скользящих средних</a>
   
  
