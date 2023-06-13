@@ -112,9 +112,7 @@ href="https://docs.google.com/spreadsheets/d/1v1AowF0zste1evkczrXOjH8ke4BcKNTF/e
 <p><em><strong>Итог №1:</strong></em> Собраны и проанализированы данные по распределению количества покупок клиентов онлайн-кинотеатра по каналам привлечения и партнерам.<p>
 <p><em><strong>Итог №2:</strong></em> Выполнен когортный анализ доходимости клиентов онлайн-кинотеатра для каждого партнера. Результат показан на графике.
   
-> <a href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект</a>
-(ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
-
+> <a href="https://github.com/Tashka1225/my_portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_3_%D0%9A%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BA%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D0%B0%D1%82%D1%80%D0%B0%20%D1%81%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E%20SQL.xlsx">Ссылка на проект №3</a>
   
 <br> 
 <p> <h3><strong>Проект 4: Построение витрины для модели машинного обучения в банке с помощью SQL</strong></h3></p> 
